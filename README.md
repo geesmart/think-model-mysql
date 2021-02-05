@@ -1,3 +1,10 @@
+FixBug
+
+获取字段 required 的时候
+
+我们的项目 AdminAi，会长期用维护这个库 think-model-mysql-plus
+
+
 # think-model-mysql
 
 [![npm](https://img.shields.io/npm/v/think-model-mysql.svg?style=flat-square)]()
